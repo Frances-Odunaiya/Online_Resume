@@ -1,2 +1,2 @@
 # Online_Resume
-This is my Personal resume that will always be available online.
+This is my resume that will always be available online.
